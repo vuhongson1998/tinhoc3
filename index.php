@@ -1,1 +1,3 @@
-hello develop
+<?php
+echo "Tinhoc that la don gian";
+?>
